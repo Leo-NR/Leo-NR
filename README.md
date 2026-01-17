@@ -1,1 +1,1 @@
-## I'm 15 years old and studying Python 🐍
+## I'm a Computer Science student in IFSUL, and i'm currently studying python by myself 🐍
